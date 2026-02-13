@@ -1,4 +1,4 @@
-# DataForge Pro - Requirements
+# DataForge Pro v2.0 - Dependências Completas
 # Python 3.8+
 
 # GUI Framework
@@ -12,8 +12,12 @@ openpyxl>=3.1.0
 xlrd>=2.0.1
 python-calamine>=0.1.7
 
-# Standard Library (já incluídas no Python)
-# sqlite3 (built-in)
-# unicodedata (built-in)
-# pathlib (built-in)
-# re (built-in)
+# XML Processing (NOVO)
+lxml>=4.9.0
+
+# Standard Library (built-in, não precisa instalar)
+# sqlite3
+# unicodedata
+# pathlib
+# re
+# xml.etree.ElementTree
