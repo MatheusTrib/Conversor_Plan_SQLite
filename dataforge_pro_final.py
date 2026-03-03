@@ -23,7 +23,7 @@ import re
 from pathlib import Path
 from PySide6.QtWidgets import (
     QApplication, QWidget, QLabel, QPushButton, QFileDialog,
-    QVBoxLayout, QHBoxLayout, QMessageBox, QRadioButton, 
+    QVBoxLayout, QHBoxLayout,QCheckBox, QMessageBox, QRadioButton, 
     QGroupBox, QProgressBar, QFrame, QPlainTextEdit, QSizePolicy,
     QTableWidget, QTableWidgetItem, QComboBox, QHeaderView, QScrollArea,
     QTabWidget  # Para abas XML
