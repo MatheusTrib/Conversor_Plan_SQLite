@@ -4,7 +4,7 @@
 ![PySide6](https://img.shields.io/badge/PySide6-6.0%2B-green)
 ![License](https://img.shields.io/badge/License-PolyForm-yellow)
 
-**DataForge Pro** é uma ferramenta desktop profissional para conversão de arquivos de planilhas (Excel/CSV) em bancos de dados SQLite, com recursos avançados de normalização, detecção automática de tipos, gerenciamento de chaves primárias e prevenção de duplicatas.
+**DataForge Pro** é uma ferramenta desktop para conversão de arquivos de planilhas (Excel/CSV) em bancos de dados SQLite, com recursos de normalização, detecção automática de tipos, gerenciamento de chaves primárias e prevenção de duplicidades.
 
 ---
 
